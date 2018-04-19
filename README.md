@@ -1,6 +1,16 @@
 # What-Should-I-Install-With-A-New-Computer
 Record the software or plugins that I need for work or fun
 
+
+| App  | Other Version | Details |
+| :------------: |:---------------:| :-----:|
+| [chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
+| [VSCode](https://code.visualstudio.com/)      | \        |   \ |
+| [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
+| [Reeder 3](http://reederapp.com/mac/) | \ | \ |
+
+
+
 | App | Plugins  | Details |
 | :------------: |:---------------:| :-----:|
 |             | [Vimium](https://github.com/philc/vimium#release-notes) | \ |
@@ -11,12 +21,6 @@ Record the software or plugins that I need for work or fun
 |             | [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | \ |
 |             | [言葉 の Tab](https://github.com/keiww/the-tab-of-words)| \ |
 
-| App  | Other Version | Details |
-| :------------: |:---------------:| :-----:|
-| [chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
-| [VSCode](https://code.visualstudio.com/)      | \        |   \ |
-| [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
-| [Reeder 3](http://reederapp.com/mac/) | \ | \ |
 ## Chrome
 
 - [Vimium](https://github.com/philc/vimium#release-notes)
