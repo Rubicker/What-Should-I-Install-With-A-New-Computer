@@ -16,12 +16,18 @@ Record the software or plugins that I need for work or fun
 | App | Plugins  | Details |
 | :------------: |:---------------:| :-----:|
 |             | [Vimium](https://github.com/philc/vimium#release-notes) | \ |
-|             | [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js?utm_source=next.36kr.com)       |   \ |
-|             | [GitHub Searchlite](https://chrome.google.com/webstore/detail/github-searchlite/lohekcihaibnhdhlbohicihejbfchikj)       |    \ |
-|     Chrome  | [OctoLinker](https://octolinker.github.io/)      |   \ |
+|             | [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js?utm_source=next.36kr.com) |   \ |
+|             | [GitHub Searchlite](https://chrome.google.com/webstore/detail/github-searchlite/lohekcihaibnhdhlbohicihejbfchikj) |    \ |
+| Chrome | [OctoLinker](https://octolinker.github.io/) |   \ |
 |             |  [CodeCopy](https://github.com/zenorocha/codecopy)| \ |
 |             | [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | \ |
 |             | [言葉 の Tab](https://github.com/keiww/the-tab-of-words)| \ |
+
+| App | Plugins  | 别名 |
+| :------------: |:---------------:| :-----:|
+|             | [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) | caniuse |
+| Alfred3 | [Colors](http://www.packal.org/workflow/colors) |  直接写颜色值 |
+|             | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 
 ## Chrome
 
