@@ -44,20 +44,25 @@ Record the software or plugins that I need for work or fun
 | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 | Dash |   在 Dash 中可以关联 |
 
-### `z`
-  
+### z
+
+> 快速跳转到常用文件夹
 ```bash
 brew install z
 echo . /usr/local/etc/profile.d/z.sh >> ~/.zshrc
 source ~/.zshrc
 ```
 
-### `take`
+### take
+
+```bash
+take my-dir
+```
+
+相当于：
 
 ```bash
 mkdir my-dir & cd my-dir
 ```
 
-```bash
-take my-dir
-```
+
