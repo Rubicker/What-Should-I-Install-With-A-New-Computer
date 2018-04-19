@@ -8,6 +8,7 @@ Record the software or plugins that I need for work or fun
 | [VSCode](https://code.visualstudio.com/)      | \        |   \ |
 | [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
 | [Reeder 3](http://reederapp.com/mac/) | \ | \ |
+| [Keka](http://www.kekaosx.com/en/) | \ | \ |
 
 
 
