@@ -16,6 +16,7 @@ Record the software or plugins that I need for work or fun
 | [chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
 | [VSCode](https://code.visualstudio.com/)      | \        |   \ |
 | [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
+| [Reeder 3](http://reederapp.com/mac/) | \ | \ |
 ## Chrome
 
 - [Vimium](https://github.com/philc/vimium#release-notes)
