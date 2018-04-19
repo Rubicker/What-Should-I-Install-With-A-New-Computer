@@ -1,15 +1,15 @@
 # What-Should-I-Install-With-A-New-Computer
 Record the software or plugins that I need for work or fun
 
-| App | Plugins  | Right Aligned |
-| :------------: |:---------------| -----:|
-|             | [Vimium](https://github.com/philc/vimium#release-notes) | $1600 |
-|             | [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js?utm_source=next.36kr.com)       |   $12 |
-|             | [GitHub Searchlite](https://chrome.google.com/webstore/detail/github-searchlite/lohekcihaibnhdhlbohicihejbfchikj)       |    $1 |
-|     Chrome  | [OctoLinker](https://octolinker.github.io/)      |   $12 |
-|             |  [CodeCopy](https://github.com/zenorocha/codecopy)||
-|             | [BaiduExporter](https://github.com/acgotaku/BaiduExporter) ||
-|             | [言葉 の Tab](https://github.com/keiww/the-tab-of-words)||
+| App | Plugins  | Details |
+| :------------: |:---------------:| :-----:|
+|             | [Vimium](https://github.com/philc/vimium#release-notes) | \ |
+|             | [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js?utm_source=next.36kr.com)       |   \ |
+|             | [GitHub Searchlite](https://chrome.google.com/webstore/detail/github-searchlite/lohekcihaibnhdhlbohicihejbfchikj)       |    \ |
+|     Chrome  | [OctoLinker](https://octolinker.github.io/)      |   \ |
+|             |  [CodeCopy](https://github.com/zenorocha/codecopy)| \ |
+|             | [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | \ |
+|             | [言葉 の Tab](https://github.com/keiww/the-tab-of-words)| \ |
 
 | App  | Other Version | Details |
 | :------------: |:---------------:| :-----:|
