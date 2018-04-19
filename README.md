@@ -35,12 +35,12 @@ Record the software or plugins that I need for work or fun
 | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 | Dash |   在 Dash 中可以关联 |
 
-## Iterm3
+## Iterm2
 
 | Plugins  | How |
 |:---------------:| :-----:|
 | [z](https://github.com/rupa/z/blob/master/z.sh) | 方便导航，用法见下 |
-| [Colors](http://www.packal.org/workflow/colors) |  直接写颜色值 |
+| [imgcat](https://github.com/eddieantonio/imgcat) |  在命令行中查看图片 |
 | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 | Dash |   在 Dash 中可以关联 |
 
@@ -63,6 +63,13 @@ take my-dir
 
 ```bash
 mkdir my-dir & cd my-dir
+```
+
+### imgcat
+
+```bash
+brew tap eddieantonio/eddieantonio
+brew install imgcat
 ```
 
 
