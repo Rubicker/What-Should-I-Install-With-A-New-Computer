@@ -9,6 +9,7 @@ Record the software or plugins that I need for work or fun
 | [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
 | [Reeder 3](http://reederapp.com/mac/) | \ | \ |
 | [Keka](http://www.kekaosx.com/en/) | \ | \ |
+| [Alfred 3](https://www.alfredapp.com/) | \ | \ |
 
 
 
