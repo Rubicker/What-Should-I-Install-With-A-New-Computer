@@ -11,7 +11,7 @@ Record the software or plugins that I need for work or fun
 | [Keka](http://www.kekaosx.com/en/) | \ | \ |
 | [Alfred3](https://www.alfredapp.com/) | \ | \ |
 | [Dash](https://kapeli.com/dash) | \ | \ |
-
+| [F.lux](https://justgetflux.com/) | \ | Free |
 
 
 | App | Plugins  | Details |
