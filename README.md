@@ -7,9 +7,10 @@ Record the software or plugins that I need for work or fun
 | [Chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
 | [VSCode](https://code.visualstudio.com/)      | \        |   \ |
 | [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
-| [Reeder 3](http://reederapp.com/mac/) | \ | \ |
+| [Reeder3](http://reederapp.com/mac/) | \ | \ |
 | [Keka](http://www.kekaosx.com/en/) | \ | \ |
-| [Alfred 3](https://www.alfredapp.com/) | \ | \ |
+| [Alfred3](https://www.alfredapp.com/) | \ | \ |
+| [Dash](https://kapeli.com/dash) | \ | \ |
 
 
 
