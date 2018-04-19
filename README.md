@@ -4,7 +4,7 @@ Record the software or plugins that I need for work or fun
 
 | App  | Other Version | Details |
 | :------------: |:---------------:| :-----:|
-| [chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
+| [Chrome](https://www.google.cn/chrome/index.html)  | [Chrome Canary version](https://www.google.com/chrome/browser/canary.html) | \ |
 | [VSCode](https://code.visualstudio.com/)      | \        |   \ |
 | [IINA](https://github.com/lhc70000/iina)       |    \ | \ |
 | [Reeder 3](http://reederapp.com/mac/) | \ | \ |
