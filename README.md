@@ -12,7 +12,7 @@ Record the software or plugins that I need for work or fun
 | [Alfred3](https://www.alfredapp.com/) | \ | \ |
 | [Dash](https://kapeli.com/dash) | \ | \ |
 | [F.lux](https://justgetflux.com/) | \ | Free |
-
+| [ColorSnapper 2](https://colorsnapper.com/) | \ | \ |
 
 | App | Plugins  | Details |
 | :------------: |:---------------:| :-----:|
