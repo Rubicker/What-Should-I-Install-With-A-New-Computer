@@ -28,6 +28,7 @@ Record the software or plugins that I need for work or fun
 |             | [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) | caniuse |
 | Alfred3 | [Colors](http://www.packal.org/workflow/colors) |  直接写颜色值 |
 |             | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
+|             | Dash |   在 Dash 中可以关联 |
 
 ## Chrome
 
