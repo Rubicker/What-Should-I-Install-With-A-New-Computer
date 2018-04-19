@@ -36,3 +36,9 @@ Record the software or plugins that I need for work or fun
 - [言葉 の Tab](https://github.com/keiww/the-tab-of-words)
 
   > A minimal Chrome / Firefox extension to help you learn Japanese words in each new tab.
+  
+## VSCode
+  
+## Alfred3
+  
+## [IINA](https://github.com/lhc70000/iina)
