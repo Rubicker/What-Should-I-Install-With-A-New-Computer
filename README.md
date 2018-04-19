@@ -31,6 +31,13 @@ Record the software or plugins that I need for work or fun
 |             | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 |             | Dash |   在 Dash 中可以关联 |
 
+| App | Plugins  | How |
+| :------------: |:---------------:| :-----:|
+|             | [z](https://github.com/rupa/z/blob/master/z.sh) | 方便导航，用法见下 |
+| Iterm3 | [Colors](http://www.packal.org/workflow/colors) |  直接写颜色值 |
+|             | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
+|             | Dash |   在 Dash 中可以关联 |
+
 ## Chrome
 
 - [Vimium](https://github.com/philc/vimium#release-notes)
@@ -71,3 +78,13 @@ Record the software or plugins that I need for work or fun
 ## Alfred3
   
 ## [IINA](https://github.com/lhc70000/iina)
+
+## Iterm3
+
+- z
+  
+  ```bash
+  brew install z
+  echo . /usr/local/etc/profile.d/z.sh >> ~/.zshrc
+  source ~/.zshrc
+  ```
