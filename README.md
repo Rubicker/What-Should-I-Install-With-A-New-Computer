@@ -72,4 +72,7 @@ brew tap eddieantonio/eddieantonio
 brew install imgcat
 ```
 
+### 一些命令
 
+- 清除当前行  `Ctrl` + `U`
+- 清屏 `Ctrl` + `R`
