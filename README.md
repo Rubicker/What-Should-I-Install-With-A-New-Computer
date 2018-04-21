@@ -34,7 +34,7 @@ Record the software or plugins that I need for work or fun
 | [Colors](http://www.packal.org/workflow/colors) |  直接写颜色值 |
 | [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
 | Dash |   在 Dash 中可以关联 |
-| alfred-fkill | kill + 进程名 |
+| [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) | kill + 进程名 |
 
 ## Iterm2
 
