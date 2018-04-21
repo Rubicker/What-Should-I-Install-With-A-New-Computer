@@ -76,3 +76,9 @@ brew install imgcat
 
 - 清除当前行  `Ctrl` + `U`
 - 清屏 `Ctrl` + `R`
+
+## 需要安装的包
+
+### [nvm](https://github.com/creationix/nvm)
+
+> Mac only
