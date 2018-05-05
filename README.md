@@ -87,3 +87,7 @@ brew install imgcat
 ### [nvm](https://github.com/creationix/nvm)
 
 > Mac only
+
+## 管理 dotfiles
+
+> [使用 dotfiles 和 stow 管理你的 dotfiles](https://github.com/jcouyang/dotfiles)
