@@ -26,6 +26,25 @@ Record the software or plugins that I need for work or fun
 | [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | \ |
 | [言葉 の Tab](https://github.com/keiww/the-tab-of-words)| \ |
 
+## VSCode
+
+常用快捷键 ：
+
+| Keyboards  | Details |
+|:---------------:| :-----|
+| `⌘` + `P`  | 在当前工作区搜索文件并打开（连按跳转） |
+| `⌘` + `B` | 切换侧边栏 |
+| `⌘` + `K` + `Z` | 进入专注模式 |
+| `Ctrl` + click | 打开某个路径文件（如若不存在则创建） |
+| `Ctrl` + `Tab` | 打开文件浏览历史记录 |
+| `Ctrl` + G | 跳转到指定行 |
+| `Alt` + 上下箭头 | 移动该行位置 |
+| `Ctrl` + K , `Ctrl` + F | 格式化指定范围代码 |
+| `Ctrl` + K , `Ctrl` + X | Trim trailing whitespace |
+| `⌘` + I | 选中当前行 |
+| `⌘` + `Alt` + `[` / `]` | 折叠当前代码 |
+| `⌘` + 上下箭头 | 跳转到当前代码第一行或最后一行 |
+
 ## Alfred3
 
 | Plugins  | 别名 |
