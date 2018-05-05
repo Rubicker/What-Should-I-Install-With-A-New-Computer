@@ -73,6 +73,10 @@ brew tap eddieantonio/eddieantonio
 brew install imgcat
 ```
 
+### Git
+
+> [快捷键](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git)
+
 ### 一些命令
 
 - 清除当前行  `Ctrl` + `U`
