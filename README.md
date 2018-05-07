@@ -13,6 +13,7 @@ Record the software or plugins that I need for work or fun
 | [Dash](https://kapeli.com/dash) | \ | \ |
 | [F.lux](https://justgetflux.com/) | \ | Free |
 | [ColorSnapper 2](https://colorsnapper.com/) | \ | \ |
+| [Fliqlo](https://fliqlo.com/#about-screensaver) | \ | Free |
 
 ## Chrome
 
