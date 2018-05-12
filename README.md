@@ -62,8 +62,7 @@ Record the software or plugins that I need for work or fun
 |:---------------:| :-----:|
 | [z](https://github.com/rupa/z/blob/master/z.sh) | 方便导航，用法见下 |
 | [imgcat](https://github.com/eddieantonio/imgcat) |  在命令行中查看图片 |
-| [stackoverflow](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow) |   so |
-| Dash |   在 Dash 中可以关联 |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | 命令行提示（->） |
 
 ### z
 
