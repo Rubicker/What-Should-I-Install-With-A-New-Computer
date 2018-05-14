@@ -92,6 +92,10 @@ brew tap eddieantonio/eddieantonio
 brew install imgcat
 ```
 
+### 如何关闭 session stored
+
+Preferences > General > Startup to any option other than Use system window restoration setting
+
 ### Git
 
 > [快捷键](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git)
