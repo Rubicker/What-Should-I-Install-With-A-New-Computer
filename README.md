@@ -56,6 +56,9 @@ Record the software or plugins that I need for work or fun
 | Dash |   在 Dash 中可以关联 |
 | [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) | kill + 进程名 |
 
+### 唤起 Alfred3 时强制使用英文键盘
+
+Preferences > Advanced > Force Keyboard choose ABC 
 ## Iterm2
 
 | Plugins  | How |
