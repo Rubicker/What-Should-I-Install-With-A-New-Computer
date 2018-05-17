@@ -107,7 +107,7 @@ Preferences > General > Startup to any option other than Use system window resto
 
 - 清除当前行  `Ctrl` + `U`
 - 清屏 `⌘` + `R`
-- 移动光标到行首 `Ctrl` + `A`
+- 移动光标到行首 `Ctrl` + `A`， 到行尾 `Ctrl` + `E`
 - 打开当前 Finder 目录： 拖拽目录到命令行，按回车即可
 
 ## 需要安装的包
