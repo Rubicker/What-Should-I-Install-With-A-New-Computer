@@ -46,6 +46,22 @@ Record the software or plugins that I need for work or fun
 | `⌘` + `Alt` + `[` / `]` | 折叠当前代码 |
 | `⌘` + 上下箭头 | 跳转到当前代码第一行或最后一行 |
 
+### `⌘` + `P`
+
+- 输入 `@` 可以列出当前文件使用的 methods & variables。输入 `@:` 可以将其分类显示
+
+- 输入 `:` + 数字可以跳转到某行（debug 很方便）
+
+### `⌘` + `J`
+
+唤醒 lower panel (类似于唤起终端，但是不会改变 tab)
+
+### Terminal
+
+- `⌘` + `]` split terminal
+- `⌘` + `[` kill current active terminal 
+- `⌘` + `M` maximiz terminal or any panels
+
 ## Alfred3
 
 | Plugins  | 别名 |
