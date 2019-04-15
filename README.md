@@ -14,6 +14,8 @@ Record the software or plugins that I need for work or fun
 | [F.lux](https://justgetflux.com/) | \ | Free |
 | [ColorSnapper 2](https://colorsnapper.com/) | \ | \ |
 | [Fliqlo](https://fliqlo.com/#about-screensaver) | \ | Free |
+| [iTerm2](https://www.iterm2.com/) | \ | Free |
+| [tmux](https://github.com/tmux/tmux) | \ | Free |
 
 ## Chrome
 
@@ -61,6 +63,12 @@ Record the software or plugins that I need for work or fun
 - `⌘` + `]` split terminal
 - `⌘` + `[` kill current active terminal 
 - `⌘` + `M` maximiz terminal or any panels
+
+
+## Tmux
+
+[Tmux 使用](http://louiszhai.github.io/2017/09/30/tmux/#%E5%AF%BC%E8%AF%BB)
+[The Tao of tmux](https://tmuxp.readthedocs.io/en/latest/about_tmux.html)
 
 ## Alfred3
 
@@ -137,3 +145,4 @@ Preferences > General > Startup to any option other than Use system window resto
 ## 管理 dotfiles
 
 > [使用 dotfiles 和 stow 管理你的 dotfiles](https://github.com/jcouyang/dotfiles)
+
