@@ -130,6 +130,8 @@ Preferences > General > Startup to any option other than Use system window resto
 
 ### [nvm](https://github.com/creationix/nvm)
 
+> [A misleading 'You need to run "nvm install N/A"' message when trying to use a non-installed version](https://github.com/creationix/nvm/issues/1356)
+
 > Mac only
 
 ## 管理 dotfiles
