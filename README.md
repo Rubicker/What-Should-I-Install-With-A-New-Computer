@@ -68,7 +68,10 @@ Record the software or plugins that I need for work or fun
 ## Tmux
 
 [Tmux 使用](http://louiszhai.github.io/2017/09/30/tmux/#%E5%AF%BC%E8%AF%BB)
+
 [The Tao of tmux](https://tmuxp.readthedocs.io/en/latest/about_tmux.html)
+
+[gpakosz's tmux config](https://github.com/gpakosz/.tmux)
 
 ## Alfred3
 
